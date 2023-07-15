@@ -21,3 +21,4 @@ int AckermannFunction(int numberM, int numberN)
 }
 
 Console.WriteLine($"Функция Аккермана для чисел A({numberM},{numberN}) = {AckermannFunction(numberM, numberN)}");
+ 
